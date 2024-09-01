@@ -25,6 +25,6 @@ I have authored several publications, which you can find listed [here](https://c
 
 **(3)** a beginner who might benefit from my guidance where I can provide one-on-one discussions and computational resources. 
 
-Please feel free to reach out via email at [zorowin123@gmail.com](zorowin123@gmail.com). I am more than happy to help and will reply as promptly as possible.
+Please feel free to reach out via email at [zorowin123@gmail.com](mailto:zorowin123@gmail.com). I am more than happy to help and will reply as promptly as possible.
 
 Additionally, I am actively seeking internship opportunities in industry or academia for the next summer (<span style="color: red;">2025</span>). If you have any suitable opportunities or would like to collaborate, please feel free to reach out.
