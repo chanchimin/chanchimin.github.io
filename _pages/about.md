@@ -17,7 +17,7 @@ My research interests are primarily in the areas of
 
 **(3)** Currently focusing on data mixture for improved LLM pretraining. 
 
-I have authored several publications, which you can find listed [here](/publications). I am always open to collaboration, whether you are 
+I have authored several publications, which you can find listed [here](https://chanchimin.github.io/publications). I am always open to collaboration, whether you are 
 
 **(1)** an experienced researcher seeking someone to handle coding tasks, 
 
